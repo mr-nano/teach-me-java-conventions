@@ -7,7 +7,7 @@ version = '1.0-SNAPSHOT'
 
 jar {
     manifest {
-        attributes('Main-Class':'powerpackage.powerfinder')
+        attributes('Main-Class':'powerpackage.PowerFinder')
     }
 }
 
